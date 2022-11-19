@@ -1,13 +1,15 @@
 
-## 🚀 Sobre mim
+# Olá, eu sou a Valtemir! 👋
+![Logo](https://avatars.githubusercontent.com/u/117370378?v=4)
+
 Licenciando em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte | Natal - Zona Norte.
 
 Formado em Tecnico em Redes de Computadores pelo Metrópole Digital - IMD/UFRN.
 
-Desenvolvedor backend python nas horas vagas. 
-Atualmente, professor em Serviço Nacional de Aprendizagem Comercial – Senac.
+Desenvolvedor backend python nas horas vagas. Atualmente, professor em Serviço Nacional de Aprendizagem Comercial – Senac.
 
-Apaixonado por robotoca educacional. 
+Apaixonado por robotoca educacional.
+
 ## 🛠 Habilidades
 Javascript, HTML, CSS, Python, Bootstrap 5, mysql, Flask e outas tecnologias de backend. 
 
